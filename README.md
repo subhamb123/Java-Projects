@@ -7,5 +7,3 @@ Thus, if you want to view all of my projects in a fun way, I suggest you to down
 The 'Boggle' and 'Critter' folders are each a separate project too. Check them out!
 
 And one more thing, you might be confused where to actually get the java projects. It is under every parent folder's 'src' folder.
-
-Thank you!
